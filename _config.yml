@@ -1,7 +1,7 @@
 name: CarBengkel
 favicon: null
-layout_spectrum: 0.9340089459437877
-typography_spectrum: 0.2529743630439043
+layout_spectrum: 1
+typography_spectrum: 0.48804
 title: Breakdown.Appointment.Quotation
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#f37835'
+    - '#515a63'
+    - '#a4a4a4'
+    - '#fcbf79'
   brandStrength: 0.12945623067207634
-  lightness: 0.15347147989086807
+  lightness: 0.125
   saturation: 0.876898760907352
   rhythmicContrast: 0.4065882421564311
 purpose: []
