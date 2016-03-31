@@ -1,20 +1,4 @@
-name: CarBengkel
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48804
-title: Breakdown.Appointment.Quotation
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#515a63'
     - '#a4a4a4'
     - '#fcbf79'
-  brandStrength: 1
+  brandStrength: 0.283991
   lightness: 0.125
-  saturation: 0.876898760907352
-  rhythmicContrast: 0.4065882421564311
+  rhythmicContrast: 0.406588
+  saturation: 0.455043
+cta: {}
+layout_spectrum: 0.572368
+name: CarBengkel
+opengraph: {}
 purpose: []
+typography_spectrum: 0.48804
