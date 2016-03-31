@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CarBengkel]]></title>
-        <description><![CDATA[CarBengkel]]></description>
+        <title><![CDATA[Breakdown.Appointment.Quotation]]></title>
+        <description><![CDATA[Breakdown.Appointment.Quotation]]></description>
         <link>https://thegrid.ai/carbengkel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 23:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 23:55:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/carbengkel/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Quotation]]></title>
-            <description><![CDATA[<article><h1>Quotation</h1><p>CarBengkel will send your Request For Quotation to all registered workshops within your vicinity. Then you can select whichever quotation you are comfortable with and arrange for either the car to be picked up or to drive yourself.  With just 2-taps, you can request for quotations from all registered workshop or selective workshop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eab9ef1440a0a4082e78048742da12bf29cdb9b5.png"></article>]]></description>
-            <link>https://thegrid.ai/carbengkel/quotation/index.html</link>
-            <guid isPermaLink="false">401e70e6-6a28-4e94-a6db-047d4eb03c8e</guid>
-            <pubDate>Thu, 31 Mar 2016 23:49:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8663d4ef-c7af-4f88-aa79-24a0c5beabe0.gif">]]></description>
