@@ -1,0 +1,28 @@
+name: CarBengkel
+favicon: null
+layout_spectrum: 0.9340089459437877
+typography_spectrum: 0.2529743630439043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.12945623067207634
+  lightness: 0.15347147989086807
+  saturation: 0.876898760907352
+  rhythmicContrast: 0.4065882421564311
+purpose: []
