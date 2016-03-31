@@ -8,11 +8,11 @@ color:
     - '#000000'
   brandStrength: 0.741228
   lightness: 0.375
-  rhythmicContrast: 0.25
-  saturation: 0
+  rhythmicContrast: 0.129385
+  saturation: 0.293859
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 0.997807
 name: CarBengkel
 opengraph: {}
 purpose: []
-typography_spectrum: 0.48804
+typography_spectrum: 0.180921
