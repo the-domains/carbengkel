@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Breakdown.Appointment.Quotation]]></title>
         <description><![CDATA[Breakdown.Appointment.Quotation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carbengkel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 08:12:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 08:14:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carbengkel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9bdecb3-f48e-4020-9993-7ab3158cdafb.png">]]></description>
-            <link>undefinedbreakdown-appointment-quotation/index.html</link>
+            <link>https://thegrid.ai/carbengkel/breakdown-appointment-quotation/index.html</link>
             <guid isPermaLink="false">db075e26-bc29-40e3-8a3d-124491bcbe02</guid>
-            <pubDate>Thu, 31 Mar 2016 08:12:54 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 08:14:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
