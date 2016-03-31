@@ -2,6 +2,7 @@ name: CarBengkel
 favicon: null
 layout_spectrum: 0.9340089459437877
 typography_spectrum: 0.2529743630439043
+title: Breakdown.Appointment.Quotation
 cta:
   domain: null
   bucket: null
