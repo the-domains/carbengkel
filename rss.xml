@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Breakdown.Appointment.Quotation]]></title>
         <description><![CDATA[Breakdown.Appointment.Quotation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carbengkel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 00:06:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 00:07:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carbengkel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pick-Up Service]]></title>
+            <description><![CDATA[<article><h1>Pick-Up Service</h1><p>Service your car at the comfort of your home or while working at your office. CarBengkel will signal the nearest workshop to pick up your car at your home or office and bring it to the workshop for repair, then send it back to you without you needing to waste anytime waiting and sweating at the workshop.  With just 2-taps on your handphone, your car is immediately attended.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbc26dbbae5a0b7752a52229f078b9797e9d4528.png"></article>]]></description>
+            <link>https://thegrid.ai/carbengkel/pick-up-service/index.html</link>
+            <guid isPermaLink="false">2b616944-a331-4f4a-afbe-e4ac947c95c2</guid>
+            <pubDate>Fri, 01 Apr 2016 00:06:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breakdown]]></title>
             <description><![CDATA[<article><h1>Breakdown</h1><p>Whenever your car breaks down, you can select one of the following options: Locate the nearest workshop nearest to your breakdown area and send SOS request to find your location and rescue you; or Find the nearest tow truck without having to wait for hours; or Call your insurance company for rescue in case of major accident.  With just 2-taps on your handphone, you can be rescued.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b97a61fef5b81f713b955d3c9f614233d8314c6.png"></article>]]></description>
-            <link>undefinedbreakdown/index.html</link>
+            <link>https://thegrid.ai/carbengkel/breakdown/index.html</link>
             <guid isPermaLink="false">b5c0635f-9267-490c-8155-7faf1891114a</guid>
             <pubDate>Fri, 01 Apr 2016 00:06:32 GMT</pubDate>
         </item>
