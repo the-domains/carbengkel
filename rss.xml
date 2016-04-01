@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Breakdown.Appointment.Quotation]]></title>
+        <description><![CDATA[Breakdown.Appointment.Quotation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 00:06:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breakdown]]></title>
+            <description><![CDATA[<article><h1>Breakdown</h1><p>Whenever your car breaks down, you can select one of the following options: Locate the nearest workshop nearest to your breakdown area and send SOS request to find your location and rescue you; or Find the nearest tow truck without having to wait for hours; or Call your insurance company for rescue in case of major accident.  With just 2-taps on your handphone, you can be rescued.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b97a61fef5b81f713b955d3c9f614233d8314c6.png"></article>]]></description>
+            <link>undefinedbreakdown/index.html</link>
+            <guid isPermaLink="false">b5c0635f-9267-490c-8155-7faf1891114a</guid>
+            <pubDate>Fri, 01 Apr 2016 00:06:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
