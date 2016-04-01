@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Breakdown. Appointment. Quotation
-datePublished: '2016-03-31T22:48:06.987Z'
-dateModified: '2016-03-31T22:45:03.342Z'
-title: ''
+datePublished: '2016-04-01T00:04:56.159Z'
+dateModified: '2016-04-01T00:02:37.894Z'
+title: Facelift
 author: []
 sourcePath: _posts/2016-03-31-breakdown-appointment-quotation.md
 published: true
@@ -18,9 +19,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: breakdown-appointment-quotation/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1393f16831d41b813e737ba9944d7cd3d111cc93.gif)
+
 Breakdown. Appointment. Quotation
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8663d4ef-c7af-4f88-aa79-24a0c5beabe0.gif)
