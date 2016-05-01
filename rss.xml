@@ -4,7 +4,7 @@
         <description><![CDATA[Breakdown.Appointment.Quotation]]></description>
         <link>https://thegrid.ai/carbengkel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 05:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 05:49:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/carbengkel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,20 +40,6 @@
             <link>https://thegrid.ai/carbengkel/bf994c4a-dd75-455c-85ea-e7d360a17ffe/index.html</link>
             <guid isPermaLink="false">bf994c4a-dd75-455c-85ea-e7d360a17ffe</guid>
             <pubDate>Fri, 01 Apr 2016 00:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pick-Up Service]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd6e4ac6-4829-4f91-9e82-8eefdab67c18.png">]]></description>
-            <link>https://thegrid.ai/carbengkel/pick-up-service/index.html</link>
-            <guid isPermaLink="false">2b616944-a331-4f4a-afbe-e4ac947c95c2</guid>
-            <pubDate>Fri, 01 Apr 2016 00:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breakdown]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccd69f60-8727-413a-ba41-2f0182faaa2c.png">]]></description>
-            <link>https://thegrid.ai/carbengkel/breakdown/index.html</link>
-            <guid isPermaLink="false">b5c0635f-9267-490c-8155-7faf1891114a</guid>
-            <pubDate>Fri, 01 Apr 2016 00:06:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
